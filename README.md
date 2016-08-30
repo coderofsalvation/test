@@ -1,3 +1,3 @@
 ## Foo
 
-<img src="http://localhost:1880/play?file=test.ttyrec/>
+![playterm test](http://0.0.0.0:1880/play?file=test.ttyrec)
