@@ -1,0 +1,9 @@
+{ 
+  "prompt":"$", 
+  "lines":[
+    { comment:"very easy to clone",   typing: "git clone foo bar" },
+    { comment:"very easy to install", typing: "npm install" },
+    { comment:"very easy to run",     typing: "node app.js" },
+    { comment:"very easy to delete",  typing: "rm *"        }
+  ]
+}

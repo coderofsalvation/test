@@ -1,0 +1,9 @@
+Script started on Fri 02 Sep 2016 12:11:24 PM CEST
+[0;32mbashlive>[0;0m type '/ <topic>' or tab-away for online completion.
+]0;[[ $- =~ "i" ]] [sqz@peach:/mnt/data/home/sqz]k[[ $- =~ "i" ]] [s\]0;settitle "$(whoami)@$(uname -n)" [sqz@peach:/mnt/data/home/sqz]ksettitle "$(whoami\]0;sqz@peachksqz@peach\]0;PERL_MB_OPT="--install_base \"/home/sqz/perl5\"" [sqz@peach:/mnt/data/home/sqz]kPERL_MB_OPT="--ins\]0;export PERL_MB_OPT [sqz@peach:/mnt/data/home/sqz]kexport PERL_MB_OPT\]0;PERL_MM_OPT="INSTALL_BASE=/home/sqz/perl5" [sqz@peach:/mnt/data/home/sqz]kPERL_MM_OPT="INSTA\]0;export PERL_MM_OPT [sqz@peach:/mnt/data/home/sqz]kexport PERL_MM_OPT\]0;[[ -n $IS_MAC ]] [sqz@peach:/mnt/data/home/sqz]k[[ -n $IS_MAC ]] [\]0;source ~/bin/sticky [sqz@peach:/mnt/data/home/sqz]ksource ~/bin/stick\]0;trap sticky_hook DEBUG [sqz@peach:/mnt/data/home/sqz]ktrap sticky_hook D\[sqz@peach[32m/mnt/data/home/sqz][0m (master)
+[1;33m$ [0mhello[0;0m
+[sqz@peach[32m/mnt/data/home/sqz][0m (master)
+[1;33m$ [0mexit
+exit
+
+Script done on Fri 02 Sep 2016 12:11:29 PM CEST

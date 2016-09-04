@@ -1,0 +1,13 @@
+{
+  "schema":"http://playterm.org/schema/v1.json", 
+  "prompt": "$ ", 
+  "clearscreen": true,
+  "overwrite":true,
+  "speed":{"typing":10000,"sleep":1000000},
+  "lines":[
+    "git clone http://",
+    "npm install\r", 
+    "node app.js",
+    "rm *"
+  ]
+}
